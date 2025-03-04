@@ -1,3 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandblaze05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Sandblaze05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandblaze05&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandblaze05&layout=compact&theme=radical" height="150">
+</div>
