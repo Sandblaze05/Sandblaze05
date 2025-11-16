@@ -1,4 +1,4 @@
-<h2>Checkout my portfolio: <a href='https://tejas-chauhan-0512.vercel.app' target='_blank'></a></h2>
+<h3>Checkout my portfolio: https://tejas-chauhan-0512.vercel.app</h3>
 <br>
 
 <div align="center">
